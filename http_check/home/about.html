@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programming Languages</title>
+    <style>
+        /* Reset some basic styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            color: #333;
+            background-color: #f4f4f4;
+            padding: 0 2rem;
+        }
+
+        header {
+            background-color: #000;
+            color: #fff;
+            text-align: center;
+            padding: 2rem;
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .language-section {
+            margin-top: 2rem;
+        }
+
+        .language-item {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+            overflow: hidden;
+            transition: box-shadow 0.3s ease;
+        }
+
+        .language-item:hover {
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .language-header {
+            background-color: #000;
+            color: #fff;
+            padding: 1rem;
+            cursor: pointer;
+            font-size: 1.2rem;
+        }
+
+        .language-content {
+            display: none;
+            padding: 1rem;
+            background-color: #f9f9f9;
+        }
+
+        .language-content p {
+            margin: 0;
+        }
+
+        footer {
+            background-color: #000;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Programming Languages</h1>
+    </header>
+    
+    <main>
+        <section class="language-section">
+            <div class="language-item">
+                <div class="language-header" onclick="toggleContent(this)">JavaScript</div>
+                <div class="language-content">
+                    <p>JavaScript is a versatile language primarily used for web development. It allows for dynamic and interactive content on websites.</p>
+                </div>
+            </div>
+            <div class="language-item">
+                <div class="language-header" onclick="toggleContent(this)">Python</div>
+                <div class="language-content">
+                    <p>Python is a popular language known for its readability and ease of use. It's widely used in web development, data analysis, and artificial intelligence.</p>
+                </div>
+            </div>
+            <div class="language-item">
+                <div class="language-header" onclick="toggleContent(this)">C#</div>
+                <div class="language-content">
+                    <p>C# is a language developed by Microsoft, commonly used for developing Windows applications and games using Unity.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 Programming Languages</p>
+    </footer>
+
+    <script>
+        function toggleContent(element) {
+            const content = element.nextElementSibling;
+            if (content.style.display === "block") {
+                content.style.display = "none";
+            } else {
+                content.style.display = "block";
+            }
+        }
+    </script>
+</body>
+</html>

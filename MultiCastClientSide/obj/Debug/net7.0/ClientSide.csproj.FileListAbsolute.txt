@@ -1,0 +1,14 @@
+/Users/fermayilhesenov/Projects/MultiCastServerSide/MultiCastClientSide/bin/Debug/net7.0/ClientSide
+/Users/fermayilhesenov/Projects/MultiCastServerSide/MultiCastClientSide/bin/Debug/net7.0/ClientSide.deps.json
+/Users/fermayilhesenov/Projects/MultiCastServerSide/MultiCastClientSide/bin/Debug/net7.0/ClientSide.runtimeconfig.json
+/Users/fermayilhesenov/Projects/MultiCastServerSide/MultiCastClientSide/bin/Debug/net7.0/ClientSide.dll
+/Users/fermayilhesenov/Projects/MultiCastServerSide/MultiCastClientSide/bin/Debug/net7.0/ClientSide.pdb
+/Users/fermayilhesenov/Projects/MultiCastServerSide/MultiCastClientSide/obj/Debug/net7.0/ClientSide.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fermayilhesenov/Projects/MultiCastServerSide/MultiCastClientSide/obj/Debug/net7.0/ClientSide.AssemblyInfoInputs.cache
+/Users/fermayilhesenov/Projects/MultiCastServerSide/MultiCastClientSide/obj/Debug/net7.0/ClientSide.AssemblyInfo.cs
+/Users/fermayilhesenov/Projects/MultiCastServerSide/MultiCastClientSide/obj/Debug/net7.0/ClientSide.csproj.CoreCompileInputs.cache
+/Users/fermayilhesenov/Projects/MultiCastServerSide/MultiCastClientSide/obj/Debug/net7.0/ClientSide.dll
+/Users/fermayilhesenov/Projects/MultiCastServerSide/MultiCastClientSide/obj/Debug/net7.0/refint/ClientSide.dll
+/Users/fermayilhesenov/Projects/MultiCastServerSide/MultiCastClientSide/obj/Debug/net7.0/ClientSide.pdb
+/Users/fermayilhesenov/Projects/MultiCastServerSide/MultiCastClientSide/obj/Debug/net7.0/ClientSide.genruntimeconfig.cache
+/Users/fermayilhesenov/Projects/MultiCastServerSide/MultiCastClientSide/obj/Debug/net7.0/ref/ClientSide.dll

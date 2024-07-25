@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "R2Fh7B2xjslhe/QwUevJtTMgzOXZ83oJMSGUSgAOrg1ZxSEGgirMK+3iDu22hIIMinSowdoAmPvUJN1HBEoWzg==",
+  "success": true,
+  "projectFilePath": "/Users/fermayilhesenov/Projects/MultiCastServerSide/MultiCastServerSide/ServerSIde.csproj",
+  "expectedPackageFiles": [
+    "/Users/fermayilhesenov/.nuget/packages/microsoft.netcore.app.ref/7.0.18/microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "/Users/fermayilhesenov/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.18/microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "/Users/fermayilhesenov/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.18/microsoft.netcore.app.host.osx-arm64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
